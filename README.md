@@ -2,9 +2,9 @@
 
 ## Why do I need this repo?
 
--Though I truly believe that University Relations is a very important role in any type of a modern company, I haven't seen lots of documents, articles and all that stuff about UR in the internet. Here I'd like to summarize everything I know about this profession;
--Potentially, I'd like to somehow see a global community of UR specialists exchanging their experience. I hope this repository could be a good start;
--Finally, I just want some practice in writing in English;
+- Though I truly believe that University Relations is a very important role in any type of a modern company, I haven't seen lots of documents, articles and all that stuff about UR in the internet. Here I'd like to summarize everything I know about this profession;
+- Potentially, I'd like to somehow see a global community of UR specialists exchanging their experience. I hope this repository could be a good start;
+- Finally, I just want some practice in writing in English;
 
 ## Why not a blog?
 
