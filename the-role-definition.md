@@ -1,4 +1,4 @@
-** NB - My personal experience is based on work of IT companies. I'm not sure, which part of the thing presented below could be applicable to other types of businesses.
+**NB - My personal experience is based on work of IT companies. I'm not sure, which part of the thing presented below could be applicable to other types of businesses.
 
 ## Who is a UR manager?
 
