@@ -27,4 +27,4 @@ Looks like the UR manager role in many cases is more about influencing without a
 - Subject matter expertise. In my experience that was basic understanding of SW engineering and computer science. It could come from traditional education (let's say - BSc in SW engineering) or it could be gathered by the way (regular conversations, online learning and all that);
 - Soft skills. Oral and written communications, presentations, being nice, polite, patient, understanding and believing; 
 - Openness and being ready for expertise sharing. Being ready to become a mentor for both students and your peers; 
-- Business acumen. It means in know what are the current business conditions of the company, what are the plans, what is on the radar of the stakeholders. You know how to translate your messages in a way that is aligned with the current business conditions; 
+- Business acumen. It means, you know what are the current business conditions of the company, what are the plans, what is on the radar of the stakeholders. You know how to translate your messages in a way that is aligned with the current business conditions; 
