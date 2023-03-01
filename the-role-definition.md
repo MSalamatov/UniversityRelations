@@ -20,7 +20,7 @@ Find the best way of collaboration with educational institution that serves curr
 - Work with people involved in collaboration with universities: helping them in developing skills (mostly, soft) that are needed for implementing the collaboration in the best possible way; 
 - 'Managing up' - presentation of the university program to stakeholders, listening to the feedback, adjusting prgrams accordingly;
 
-Looks like the UR manager role in many cases is more about influencing without athority **there should be a special note about that**. 
+Looks like the UR manager role in many cases is more about [influencing without athority](https://github.com/MSalamatov/UniversityRelations/blob/main/Literature/Influencing-without-authority.md). 
 
 ## What's a typical profile for the role? 
 
