@@ -10,7 +10,7 @@
 
 Honestly, I'm not a good blogger. Moreover, I don't think, blog would be a good way for the staff I'm working on. What I'd like to finally get from this repository is a knowledge base (which is from the best of my knowledge very difficult to be organized in a classic blog format).
 
-To some extent, creation of this repo was inspired by [David Kadavy's 'Digital Zettelkasten'] (https://a.co/d/0FnbB60). One of this repo's purposes is to summarize my notes inspired by different books, articles, long reads and other sources. 
+To some extent, creation of this repo was inspired by [David Kadavy's 'Digital Zettelkasten'](https://a.co/d/0FnbB60). One of this repo's purposes is to summarize my notes inspired by different books, articles, long reads and other sources. 
 
 ## How to contribute?
 
