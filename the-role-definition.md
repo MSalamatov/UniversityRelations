@@ -11,7 +11,7 @@ A person who is responsible for connecting business ('the company') with graduat
 
 ## What do they usually do? 
 
-Find the best way of collaboration with educational institution that serves current business needs best. That means: 
+Find the best way of collaboration with educational institution that serves current business needs best and provide all the necessary assistance to the business representatives walking on this way. That means: 
 
 - Understanding business needs: basically knowing what does the business do, what is a product, what are the skills needed;
 - Understanding of universities capabilities and profiles: some of them are good at teaching particular disciplines, some of them have top research teams, some of them are experts in a particular technology, some of them have outstanding technical equipment;
