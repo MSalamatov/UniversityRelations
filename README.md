@@ -2,7 +2,7 @@
 
 ## Table of contents
 
--[The role definition](the-role-definition.md). Profile description as far as I see them;
+-[The role definition](the-role-definition.md). Profile description as far as I see it;
 
 ## Why do I need this repo?
 
