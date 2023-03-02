@@ -1,5 +1,9 @@
 # University Relations
 
+## Table of contents
+
+-[The role definition](the-role-definition.md). Profile description as far as I see them;
+
 ## Why do I need this repo?
 
 - Though I truly believe that University Relations is a very important role in any type of a modern company, I haven't seen lots of documents, articles and all that stuff about UR in the internet. Here I'd like to summarize everything I know about this profession;
