@@ -14,4 +14,4 @@ To some extent, creation of this repo was inspired by [David Kadavy's 'Digital Z
 
 ## How to contribute?
 
-The best way is to submit your PR. If you'd like to discuss something prior to submitting your PR - you could contact me via email using salamatovm at gmail.  
+The best way is to submit your PR and/or issue. If you'd like to discuss something prior to submitting your PR/issue - you could contact me via email using salamatovm at gmail.  
