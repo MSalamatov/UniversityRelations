@@ -11,6 +11,8 @@ Finally, significant part of what would be described below has been presented in
 
 There are number of 'an intern'. Here is the one I prefer more: 
 
-**An intern is a student who gets the skills required to become a full time employee during previously defined term**
+**An intern is a student who gets the skills required to become a full time employee during previously defined fixed term**
 
-Mostly, we hire undergraduate or MSc students as interns. I know there are some exeptions (sometimes we work with recent college graduates), but mostly those are the students who have to somehow combine their work with studies (though, when we talk about summer internships, technically during the summertime students don't have their studies).
+Mostly, we hire undergraduate or MSc students as interns. I know there are some exeptions (sometimes we work with recent college graduates), but in most cases those are the students who have to somehow combine their work with studies (though, when we talk about summer internships, technically during the summertime students don't have their studies).
+
+Personally, i truly believe that internships have to be fixed-term. My vision is that internships are the final stage of selection process - we double check whether a person is capable of learning. Giving students a fixed time frame to prove their ability to learn looks like a good idea - as in this case the 'selection' process looks even more transparent and connected not only with the skills required to be obtained, but with the timeframe to obtain these skills.
