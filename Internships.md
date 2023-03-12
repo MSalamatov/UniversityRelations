@@ -15,4 +15,18 @@ There are number of 'an intern'. Here is the one I prefer more:
 
 Mostly, we hire undergraduate or MSc students as interns. I know there are some exeptions (sometimes we work with recent college graduates), but in most cases those are the students who have to somehow combine their work with studies (though, when we talk about summer internships, technically during the summertime students don't have their studies).
 
-Personally, i truly believe that internships have to be fixed-term. My vision is that internships are the final stage of selection process - we double check whether a person is capable of learning. Giving students a fixed time frame to prove their ability to learn looks like a good idea - as in this case the 'selection' process looks even more transparent and connected not only with the skills required to be obtained, but with the timeframe to obtain these skills.
+Personally, I truly believe that internships have to be fixed-term. My vision is that internships are the final stage of selection process - we double check whether a person is capable of learning. Giving students a fixed time frame to prove their ability to learn looks like a good idea - as in this case the 'selection' process looks even more transparent and connected not only with the skills required to be obtained, but with the timeframe to obtain these skills.
+
+## Creating an internship set up
+
+As we've previously stated an internship definition we could now understand what is needed to set up internships in the company:
+
+- Defined and somehow (sometimes informally) described full-time engineer profile (we know what they do, what they know and what would like to do);
+- Knowledge of the market - we know the types of skills that are available among the students community and we know the skills that are almost (somtimes fully) unavailbale.
+
+These two pieces of knowledge in terms could help us set up two important parts of the process: selection and internship timeframe definition.
+
+## Selection of students
+
+Basically students don't know _a lot_ on any topic. And that's fine. Usually their knowledge is pre-defined by 16-32 weeks classes on the subject and self-learning (previously - books, recently - MOOCs).
+
