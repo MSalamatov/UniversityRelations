@@ -28,5 +28,10 @@ These two pieces of knowledge in terms could help us set up two important parts 
 
 ## Selection of students
 
-Basically students don't know _a lot_ on any topic. And that's fine. Usually their knowledge is pre-defined by 16-32 weeks classes on the subject and self-learning (previously - books, recently - MOOCs).
+Basically students don't know _a lot_ on any topic. And that's fine. Usually their knowledge is pre-defined by 16-32 weeks classes on the subject and self-learning (previously - books, recently - MOOCs). All we could do is to identify the subjects that students have heard somthing about (C++/Java) and subjects that students haven't heard anything about (let's say, Kubernetes or Rust).
 
+So, if we know a portrait of a full-time engineer we know the skills they need to have. And these skills in terms might belong to one of two previously identified areas: students could be familiar with the knowledge areas representing these skills or they could know nothing about these areas. Depending on this we could set up the following strategies of selection.
+
+### We need the skills that students have (on a low level)
+
+### We need the skills that students almost don't have
