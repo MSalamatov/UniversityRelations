@@ -34,4 +34,12 @@ So, if we know a portrait of a full-time engineer we know the skills they need t
 
 ### We need the skills that students have (on a low level)
 
+This is a quite easy task. Basically, the selection process doesn't differ from the one of a full-time employee. There should be developed a set questions that would serve as a way to verify the skills of a student. Please, remember that the questions peesented in the list should be for a 'beginner'. Remember, these are only students, they're not obliged to know everything your senior knows.
+
 ### We need the skills that students almost don't have
+
+In this case almost all of the candidates are in equal position - they don't know anything. It looks like the only thing we could check is their ability to learn. So, the process could be:
+
+1. Send a testing assignment to all of the candidates. The assignment should be easy enough but it should challenge students to show their ability to study the subject matter;
+2. Based on the task, best students are invited to the interviews;
+3. The interview agenda should include the assignment solution discussion plus the questions that would serve as a way to verify the understanding of the subject matter that students got within a given timeframe.
