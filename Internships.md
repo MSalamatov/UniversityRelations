@@ -43,3 +43,16 @@ In this case almost all of the candidates are in equal position - they don't kno
 1. Send a testing assignment to all of the candidates. The assignment should be easy enough but it should challenge students to show their ability to study the subject matter;
 2. Based on the task, best students are invited to the interviews;
 3. The interview agenda should include the assignment solution discussion plus the questions that would serve as a way to verify the understanding of the subject matter that students got within a given timeframe.
+
+## What roles are important for a successful internship?
+
+The roles presented below arguably are necessary but not enough for a successfu internships. It means that you definetly need to have these roles presented in your team to work with interns, but there could be other roles as well.
+
+### Manager/Team Lead
+
+She is responsible for:
+
+* Formal procedures established in the company (onboarding process, time-offs ets.);
+* Provisioning of feedback regarding students' way to conversion to full-time engineer;
+
+### Mentor/Tech Lead
